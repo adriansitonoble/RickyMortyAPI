@@ -1,0 +1,61 @@
+/* Estilos generales de la página */
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #1cffce;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #770ca9;
+  }
+  
+  h1 {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  
+  #characterInfo {
+    background-color: #000000;
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+ #h2A{
+    color: #007bff;
+ }
+
+ 
+  h2 {
+    font-size: 28px;
+    margin-top: 0;
+    color: #00f7ff;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #950050;
+    border-radius: 5px;
+    margin-top: 15px;
+  }
+  
+  p {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  
+  a {
+    color: #770ca9;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
